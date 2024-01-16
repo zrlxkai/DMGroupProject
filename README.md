@@ -7,8 +7,8 @@ We have chosen a public coffee shop dataset from Kaggle via https://www.kaggle.c
 <p> Video Presentation Link:
 https://www.youtube.com/watch?v=3MiAkHRi7qg
 
-<p> Group Members:
-<p> Amrin Hafiz bin Eddy Rosyadie (17205136)
+<p> Group Members:</p> 
+<p> Amrin Hafiz bin Eddy Rosyadie (17205136) </p> 
 <p> Azrul Haikal bin Uhaidi (17201828)
 <p> Muhammad Rafid Ikhwan Bin Samsuri (17204331)
 <p> Nurul Filzah binti Abdul Hadi (17205112)
