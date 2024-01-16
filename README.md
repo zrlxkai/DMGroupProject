@@ -1,4 +1,4 @@
-# DMGroupProject
+# WIE3007 Data Mining and Warehousing Group Project
 
 This is the repository for our group project for WIE3007 Data Mining and Warehousing.
 <p> This project focuses on applying data mining methodology in real-world applications, focusing on SAS SEMMA methodology.
