@@ -5,7 +5,7 @@ This is the repository for our group project for WIE3007 Data Mining and Warehou
 We have chosen a public coffee shop dataset from Kaggle via https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113
 
 <p> Video Presentation Link:
-https://www.youtube.com/watch?v=mP8zrsDnNiQ
+https://youtu.be/I_ox30Zt9nw
 
 <p>Group Members:</p> 
 <li> Amrin Hafiz bin Eddy Rosyadie (17205136)
