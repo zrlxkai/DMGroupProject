@@ -8,8 +8,8 @@ We have chosen a public coffee shop dataset from Kaggle via https://www.kaggle.c
 https://www.youtube.com/watch?v=3MiAkHRi7qg
 
 <p><bold>Group Members:</p> 
-<p> Amrin Hafiz bin Eddy Rosyadie (17205136) </p> 
-<p> Azrul Haikal bin Uhaidi (17201828)
-<p> Muhammad Rafid Ikhwan Bin Samsuri (17204331)
-<p> Nurul Filzah binti Abdul Hadi (17205112)
-<p> Wan Suraya binti Wan Mohd Lotfi (U2005345)
+<li> Amrin Hafiz bin Eddy Rosyadie (17205136)
+<li> Azrul Haikal bin Uhaidi (17201828)
+<li> Muhammad Rafid Ikhwan Bin Samsuri (17204331)
+<li> Nurul Filzah binti Abdul Hadi (17205112)
+<li> Wan Suraya binti Wan Mohd Lotfi (U2005345)
